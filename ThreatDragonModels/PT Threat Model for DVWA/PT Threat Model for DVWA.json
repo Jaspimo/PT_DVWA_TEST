@@ -1,0 +1,16 @@
+{
+  "version": "2.3.0",
+  "summary": {
+    "title": "PT Threat Model for DVWA",
+    "owner": "Jaspimo",
+    "description": "This is a practical task on threat modeling for the course",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "diagramTop": 0,
+    "reviewer": "Jaspimo",
+    "threatTop": 0
+  }
+}
